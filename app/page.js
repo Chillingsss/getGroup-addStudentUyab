@@ -15,7 +15,7 @@ const page = () => {
 
   return (
     <>
-      <AddStudentUyab />
+      <FetchGroup />
       {/* <FetchGroup /> */}
     </>
   )
